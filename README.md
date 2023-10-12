@@ -1,3 +1,3 @@
 # Data-Science-Basics
 
-Some labs from the "Modeling and Simulation" University Course
+Laboratories from the "Modeling and Simulation" University Course
